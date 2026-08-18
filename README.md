@@ -1,5 +1,4 @@
 # Bibliographic Database on Voice, Valency, and Semitic Verbal Stems
-A bibliographic database on voice, valency-changing operations, argument structure, and Semitic verbal stems.
 This repository contains a bibliographic database compiled as part of my dissertation project on verbal stems and causativization in Christian Urmi Neo-Aramaic.
 
 The database brings together references on two related topics:
